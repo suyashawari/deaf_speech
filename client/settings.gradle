@@ -1,0 +1,9 @@
+// Placeholder settings.gradle
+pluginManagement {
+    // TODO
+}
+dependencyResolutionManagement {
+    // TODO
+}
+rootProject.name = "ClientApp"
+include ':app'

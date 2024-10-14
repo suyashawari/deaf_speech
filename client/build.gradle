@@ -1,0 +1,10 @@
+// Placeholder Gradle file
+plugins {
+    // TODO
+}
+android {
+    // TODO
+}
+dependencies {
+    // TODO
+}
