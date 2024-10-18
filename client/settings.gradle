@@ -1,9 +1,16 @@
-// Placeholder settings.gradle
 pluginManagement {
-    // TODO
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
 }
 dependencyResolutionManagement {
-    // TODO
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
 }
-rootProject.name = "ClientApp"
+rootProject.name = "Gesture Recognizer"
 include ':app'
