@@ -37,7 +37,7 @@ Deaf Speech leverages MediaPipe for on-device machine learning to identify hand 
 *   **ML:** MediaPipe (`tasks-vision`)
 *   **Camera:** CameraX
 *   **UI:** AndroidX (AppCompat, Material, Navigation), RecyclerView
-*   **Model:** TensorFlow Lite (`.task`)
+*   **Model:** TensorFlow Lite (`.task`) 
 *   **Model Training (Optional):** Python, Jupyter, MediaPipe Model Maker, TensorFlow
 
 ---
