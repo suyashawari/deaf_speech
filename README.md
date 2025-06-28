@@ -1,8 +1,8 @@
-# Silent Speech - Real-Time Hand Gesture Recognition
+# Deaf Speech - Real-Time Hand Gesture Recognition
 
 **Recognize hand gestures instantly on your Android device using the live camera or gallery media.**
 
-Silent Speech leverages MediaPipe for on-device machine learning to identify hand gestures, overlaying visual landmarks for an interactive experience.
+Deaf Speech leverages MediaPipe for on-device machine learning to identify hand gestures, overlaying visual landmarks for an interactive experience.
 
 ---
 
@@ -64,8 +64,8 @@ Silent Speech leverages MediaPipe for on-device machine learning to identify han
 
 1.  **Clone Repository:**
     ```bash
-    git clone https://github.com/suyashawari/silent_speech.git
-    cd silent_speech # Or your project's root directory
+    git clone https://github.com/suyashawari/Deaf_speech.git
+    cd Deaf_speech # Or your project's root directory
     ```
 2.  **Open in Android Studio:** Open the cloned project directory.
 3.  **Sync Gradle:** Allow Android Studio to download dependencies.
@@ -124,7 +124,7 @@ Use the provided Jupyter Notebook (e.g., `gesture_recognizer.ipynb`) to train yo
 
 ## ✅ Testing the App
 
-1.  Launch "Silent Speech".
+1.  Launch "Deaf Speech".
 2.  Grant camera permissions when prompted.
 3.  **Camera Mode:** Perform various hand gestures in front of the camera. Observe the real-time landmark overlays and the recognized gesture name/score.
 4.  **Gallery Mode:** Select an image or video containing hand gestures. Observe the landmark overlays and recognized gesture information on the selected media.
@@ -133,7 +133,7 @@ Use the provided Jupyter Notebook (e.g., `gesture_recognizer.ipynb`) to train yo
 
 ## 🖼️ Application Output (Brief Visual Description)
 
-*   **Splash Screen:** App logo and "Silent Speech" title.
+*   **Splash Screen:** App logo and "Deaf Speech" title.
 *   **Main UI:** Bottom navigation tabs for "Camera" and "Gallery" modes.
 *   **Recognition View (Camera/Gallery):**
     *   Displays the live camera feed or selected media.
